@@ -1,3 +1,3 @@
-public interface CanSwim {
-    double swim(Pool pool);
+public interface Canres {
+    double res(Course course);
 }
