@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0448542c-2e02-4bc8-b83f-5256d7c0f415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/4_game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/out/production/4_game/game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/src/game1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndyQA.git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/GameMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/LauncherApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/GameMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/Launch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/mod/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/mod/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7/src/HW7/mod/Tools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/HW_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/out/production/HW_5/Sotrudnik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/src/Sotrudnik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/HW_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/out/production/HW_6/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/out/production/HW_6/Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/out/production/HW_6/Dogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/out/production/HW_6/HW_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/src/Animals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/src/Cats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/src/Dogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_6/src/HW_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_7/src/GameMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_7/src/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/les1_Dubovoy_AA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HW1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HW1_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HW1_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HW1_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HW1_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/out/production/les1_Dubovoy_AA/HomeWorkApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HW1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HW1_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HW1_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HW1_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HW1_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/les1_Dubovoy_AA/src/HomeWorkApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW2_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW2_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW2_5.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xm4aKXJ8UpT8gMNiNNid6Tx66i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0448542c-2e02-4bc8-b83f-5256d7c0f415" name="Default Changelist" comment="" />
+      <created>1630946994080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630946994080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
